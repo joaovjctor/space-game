@@ -66,7 +66,7 @@ Controlar uma nave, destruir asteroides e sobreviver o maior tempo possível enq
 
 ## **🎥 Demo**  
 
-[Link para o vídeo da demonstração do jogo](#) 
+[Link para o vídeo da demonstração do jogo](https://drive.google.com/file/d/1b_7HIKCfEar3l2WX3Ogg99etz2RbLzkF/view?usp=drive_link) 
 
 ---
 
