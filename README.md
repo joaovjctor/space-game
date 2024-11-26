@@ -1,6 +1,6 @@
 # **🚀 Space Game: Complexidade e Computabilidade de Algoritmos**  
 
-Projeto desenvolvido como parte da Avaliação A1, com foco na aplicação prática de algoritmos em um jogo interativo.  
+Projeto de Complexidade de Algoritmo,do curso de Ciência da Computação, desenvolvido como um jogo , com foco no uso de algoritmos em um jogo interativo.  
 
 ---
 
